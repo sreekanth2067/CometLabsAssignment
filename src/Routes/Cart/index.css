@@ -1,0 +1,19 @@
+
+  
+  .products-loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .products-list {
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+  }
+  .body{
+    text-align: center;
+  }
+  

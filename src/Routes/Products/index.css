@@ -1,0 +1,21 @@
+
+  
+  .products-loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .products-list {
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    width: 75Vw;
+    margin-top: 20px;
+  }
+  
+  .body{
+    text-align: center;
+  }
